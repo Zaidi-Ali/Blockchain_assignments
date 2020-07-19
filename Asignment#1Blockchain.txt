@@ -1,0 +1,25 @@
+Question 1: What is your understanding of Blockchain?
+Answer 1: It is a mix of technology of distributed database and cryptography. It stores transactions chronologically.Blockchain core word means — it is composed of blocks + chain wherein blocks contains data, records or may be transaction unit which are connected to other blocks having data with tight security.Blockchain records data in a disruptive way which makes it impossible to alter by someone and also it is a transformative technology that will reshape the future. 
+
+Question 2:What is the core problem blockchain trying to solve?
+Answer 2:  a)Authencity
+                      b)Security
+                      c)Data loss due to involvement of third party.
+
+Questio 3: What are the few features which Blockchain will give you?
+Answer 3:
+a) Data transparency
+b) Data verification.
+c)Huge security boost
+d)Decentralization
+e)Data is immutable
+
+Question 4: What all things does a Block contain?
+Answer 4: A block contains the following--
+a) Block Number
+b) Transaction record
+c) Previous Block signature
+d) Mining key
+
+Question 5: How is the verifiability of blockchain can be achieved?
+Answer 4: In the blockchain everything is interconnected in a group of community.If any finger print goes wrong in one computer he can verify it with another nearby connected people so that he can collect the entire data or else from where he did mistake from there he can restore it in this way verifiability of a blockchain can be achieved.
